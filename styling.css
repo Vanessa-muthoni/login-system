@@ -1,0 +1,21 @@
+.Index-categories-list {
+    width: 300px;
+    padding: 20px;
+    display: inline;
+    width: 300px;
+    margin: 20px 0;
+    padding: 30px;
+}
+
+:placeholder-shown {
+    font-style: italic ;
+    border: 20px solid lightcyan;
+}
+.Index-intro {
+    width: 300px;
+    padding: 20px;
+    display: inline;
+    width: 300px;
+    margin: 20px 0;
+    padding: 30px;
+}
